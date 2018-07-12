@@ -21,7 +21,6 @@ require_once "Classes/PHPExcel.php";
 			 echo "</td><tr>";
 			 
 			 echo $row;
-			 echo "";
 		}
 		echo "</table>";	
 		
